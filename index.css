@@ -1,0 +1,89 @@
+ @import "tailwindcss";
+
+/*.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.logo{
+    width: 150px;
+    padding: 1px;
+    margin-top: 30px;
+}
+
+.nav-items{
+    padding-top: 13px;
+    padding: 12px;
+    text-align: left;
+}
+
+.nav-items > ul{
+    display: flex;
+    font-size: 24px;
+    padding: 15px;
+}
+
+.nav-items > ul > li{
+    padding: 10px;
+    margin: 10px;
+    list-style: none;
+}
+
+.n-card{
+    margin: 5px;
+    padding: 5px;
+    width: 194px;
+    background-color: #ebebeb;
+}
+
+.n-card:hover{
+    cursor: pointer;
+    border: 1px solid black;
+    background-color: #c9c1c1;
+}
+
+.rest-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.search{
+    padding: 10px;
+}
+
+.noodles-img{
+    width: 100%;
+    height: 150px;
+}
+
+.filter-btn{
+    margin: 10px;
+    cursor: pointer;
+}
+
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card{
+    margin: 20px;
+    width: 200px;
+    height: 400px;
+    background-color: #f0f0f0;
+}
+
+.login-btn{
+    padding: 0 20px;
+    cursor: pointer;
+}
+
+.filter{
+    display: flex;
+}
+
+.user-card{
+    padding: 10px;
+    border: 1px solid black;
+} */
